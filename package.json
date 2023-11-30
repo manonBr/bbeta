@@ -1,0 +1,11 @@
+{
+  "name": "bbeta",
+  "version": "1.0.0",
+  "description": "Website to find betareaders and projects to betaread",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manon Bruimaud",
+  "license": "ISC"
+}
